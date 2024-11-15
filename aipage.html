@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Form</title>
+    <!-- Include Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="Scripts/AI.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="a">
+    <div class="grid grid-cols-9">
+        <div class="max-w-3xl bg-gray-300 border border-gray-900 pr-6 pl-6 pt-2 pb-2 rounded-lg shadow-md col-span-3">
+            <div id="myForm">
+                <div class="mb-1">
+                    <label for="country" class="block text-gray-700 font-medium mb-2">Country</label>
+                    <input type="text" id="country" name="city" class="form-input py-2 px-1 rounded-lg border-2 border-opacity-5 border-gray-900 focus:ring focus:ring-blue-500 w-full">
+                </div>
+
+                <div class="flex mb-1">
+                    <div class="w-1/2 pr-2">
+                        <label for="budget" class="block text-gray-700 font-medium mb-2">Budget</label>
+                        <input type="text" id="budget" name="budget" class="form-input py-2 px-3 rounded-lg  border-2 border-opacity-5 border-gray-900 focus:ring focus:ring-blue-500 w-full">
+                    </div>
+                    <div class="w-1/2 pl-2">
+                        <label for="days" class="block text-gray-700 font-medium mb-2">Trip Duration (Days)</label>
+                        <input type="text" id="days" name="days" class="form-input py-2 px-3 rounded-lg  border-2 border-opacity-5 border-gray-900 focus:ring focus:ring-blue-500 w-full">
+                    </div>
+                </div>
+
+                <div class="mb-1">
+                    <label class="block text-gray-700 font-medium mb-2">Interests</label>
+                    <div class="grid grid-cols-4">
+                        <div class="flex items-center">
+                            <input type="checkbox" name="interests[]" value="Architecture" id="architecture" class="form-checkbox hidden peer">
+                            <label for="architecture" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🏛️ Architecture</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="interests[]" value="Food" id="food" class="form-checkbox hidden peer">
+                            <label for="food" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🍴 Food</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="interests[]" value="Music" id="music" class="form-checkbox hidden peer">
+                            <label for="music" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🎵 Music</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="interests[]" value="Nature" id="nature" class="form-checkbox hidden peer">
+                            <label for="nature" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🌳 Nature</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="interests[]" value="Sports" id="sports" class="form-checkbox hidden peer">
+                            <label for="sports" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">⚽ Sports</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="interests[]" value="Photography" id="photography" class="form-checkbox hidden peer">
+                            <label for="photography" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">📷 Photography</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="interests[]" value="Art" id="art" class="form-checkbox hidden peer">
+                            <label for="art" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🎨 Art</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="interests[]" value="Literature" id="literature" class="form-checkbox hidden peer">
+                            <label for="literature" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">📚 Literature</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex mb-1">
+                    <div class="w-1/2 pr-2">
+                        <label for="accommodation" class="block text-gray-700 font-medium mb-2">Accommodation</label>
+                        <select id="accommodation" name="accommodation" class="form-select py-2 px-3 rounded-lg focus:ring focus:ring-blue-300 border-2 w-full">
+                            <option value="Hotel">Hotel</option>
+                            <option value="Boutique Hotel">Boutique Hotel</option>
+                            <option value="Hostel">Hostel</option>
+                            <option value="Resort">Resort</option>
+                            <option value="Vacation Rental">Vacation Rental</option>
+                            <option value="Camping">Camping</option>
+                            <option value="Homestay">Homestay</option>
+                            <option value="Bread & Breakfast">Bread & Breakfast</option>
+                            <!-- Add other options -->
+                        </select>
+                    </div>
+                    <div class="w-1/2 pl-2">
+                        <label for="travel-style" class="block text-gray-700 font-medium mb-2">Travel Style</label>
+                        <select id="travel-style" name="travel-style" class="form-select py-2 px-3 rounded-lg focus:ring focus:ring-blue-300 border-2 w-full">
+                            <option value="Cultural">Cultural</option>
+                            <option value="Adventure">Adventure</option>
+                            <option value="Relaxation">Relaxation</option>
+                            <option value="Beach">Beach</option>
+                            <option value="City Break">City Break</option>
+                            <option value="Road Trip">Road Trip</option>
+                            <option value="Wildlife Safari">Wildlife Safari</option>
+                            <option value="Ski">Ski</option>
+                            <!-- Add other travel style options -->
+                        </select>
+                    </div>
+                </div>
+
+                <div class="mb-1">
+                    <label for="transportation" class="block text-gray-700 font-medium mb-2">Transportation Type</label>
+                    <input type="text" id="transportation" name="transportation" class="form-input py-2 px-3 rounded-lg border-2 border-opacity-5 border-gray-900 focus:ring focus:ring-blue-500 w-full">
+                </div>
+
+                <div class="mb-1">
+                    <label for="activity-type" class="block text-gray-700 font-medium mb-2">Activity Type</label>
+                    <select multiple id="activity-type" name="activity-type" class="form-select py-2 px-3 rounded-lg focus:ring focus:ring-blue-300 border-2 w-full">
+                        <option value="Outdoor">Outdoor</option>
+                        <option value="Sightseeing">Sightseeing</option>
+                        <option value="Shopping">Shopping</option>
+                        <option value="Nightlife">Nightlife</option>
+                        <option value="Museums">Museums</option>
+                        <option value="Theme Parks">Theme Parks</option>
+                        <option value="Water Sports">Water Sports</option>
+                        <option value="Yoga and Wellness">Yoga and Wellness</option>
+                        <!-- Add other activity types -->
+                    </select>
+                </div>
+
+                <div class="mb-1">
+                    <label class="block text-gray-700 font-medium mb-2">Cuisine Type</label>
+                    <div class="grid grid-cols-5 gap-1">
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Traditional" id="traditional" class="form-checkbox hidden peer">
+                            <label for="traditional" class="flex items-center justify-center px-1 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">😋Traditional</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Japanese" id="japanese" class="form-checkbox hidden peer">
+                            <label for="japanese" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🍱Japanese</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Italian" id="italian" class="form-checkbox hidden peer">
+                            <label for="italian" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🍝Italian</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="American" id="american" class="form-checkbox hidden peer">
+                            <label for="american" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🍔American</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Korean" id="korean" class="form-checkbox hidden peer">
+                            <label for="korean" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🍜Korean</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Mexican" id="mexican" class="form-checkbox hidden peer">
+                            <label for="mexican" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🌮Mexican</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Thai" id="thai" class="form-checkbox hidden peer">
+                            <label for="thai" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🍲Thai</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Turkish" id="turkish" class="form-checkbox hidden peer">
+                            <label for="turkish" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🥙Turkish</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Indian" id="indian" class="form-checkbox hidden peer">
+                            <label for="indian" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🍛Indian</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="French" id="french" class="form-checkbox hidden peer">
+                            <label for="french" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🥐French</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Spanish" id="spanish" class="form-checkbox hidden peer">
+                            <label for="spanish" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+
+                                <span class="text-sm my-0.5">🥘Spanish</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Greek" id="greek" class="form-checkbox hidden peer">
+                            <label for="greek" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🍗Greek</span>
+                            </label>
+                        </div>
+                        <div class="flex items-center">
+                            <input type="checkbox" name="cuisine-type[]" value="Chinese" id="chinese" class="form-checkbox hidden peer">
+                            <label for="chinese" class="flex items-center justify-center px-2 py-2 rounded-lg border-2 border-gray-300 hover:bg-gray-200 cursor-pointer peer-checked:border-2 peer-checked:border-gray-500 peer-checked:bg-gray-200">
+                                <span class="text-sm my-0.5">🥡Chinese</span>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-6">
+                    <button class="bg-blue-500 text-white font-medium py-2 px-4 rounded hover:bg-blue-600 w-full" onclick="fetchAIContent()">
+                        Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div id="ai-response" class="content-disp col-span-6 my-4 mx-4 text-2xl">
+            <img id="spinner" hidden src="spinner.gif" width="100px" height="100px" alt="" srcset="">
+            <table class="show-resp min-w-full border bg-white">
+                <!-- <thead>
+                    <tr>
+                        <th class="border-4 border-gray-700">Day</th>
+                        <th class="border-4 border-gray-700">Morning</th>
+                        <th class="border-4 border-gray-700">Afternoon</th>
+                        <th class="border-4 border-gray-700">Evening</th>
+                    </tr>
+                </thead> -->
+                <!--<tbody>
+
+                    <tr>
+                        <td class="border-4 border-gray-700">Day 1</td>
+                        <td class="border-4 border-gray-700">Arrive in Paris and check into your hotel</td>
+                        <td class="border-4 border-gray-700">Visit the Louvre Museum and explore the iconic artworks</td>
+                        <td class="border-4 border-gray-700">Dine at Le Jules Verne, a Michelin-starred restaurant located in the Eiffel Tower</td>
+                    </tr>
+
+                    <tr>
+                        <td class="border-4 border-gray-700">Day 2</td>
+                        <td class="border-4 border-gray-700">Take a guided tour of Notre-Dame Cathedral and admire its Gothic architecture</td>
+                        <td class="border-4 border-gray-700">Stroll along the Champs-Élysées and indulge in shopping at luxury boutiques</td>
+                        <td class="border-4 border-gray-700">Enjoy a traditional Indian dinner at Krishna Bhavan, known for its authentic flavors</td>
+                    </tr>
+
+                    <tr>
+                        <td class="border-4 border-gray-700">Day 3</td>
+                        <td class="border-4 border-gray-700">Visit the Palace of Versailles and explore its stunning gardens</td>
+                        <td class="border-4 border-gray-700">Discover the Montmartre neighborhood and visit the Sacré-Cœur Basilica</td>
+                        <td class="border-4 border-gray-700">Savor delicious Mexican cuisine at El Nopal, a popular restaurant in Paris</td>
+                    </tr>
+
+                    <tr>
+                        <td class="border-4 border-gray-700">Day 4</td>
+                        <td class="border-4 border-gray-700">Explore the charming streets of Le Marais and visit the Picasso Museum</td>
+                        <td class="border-4 border-gray-700">Take a boat cruise along the Seine River and admire the city's landmarks</td>
+                        <td class="border-4 border-gray-700">Indulge in a delightful Japanese dinner at Kunitoraya, known for its udon noodles</td>
+                    </tr>
+                </tbody> -->
+            </table>
+        </div>
+
+</body>
+</html>

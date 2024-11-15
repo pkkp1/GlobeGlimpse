@@ -1,0 +1,485 @@
+F:\Project\GGlimpse\bin\GGlimpse.dll.config
+F:\Project\GGlimpse\bin\GGlimpse.dll
+F:\Project\GGlimpse\bin\GGlimpse.pdb
+F:\Project\GGlimpse\bin\roslyn\csc.exe
+F:\Project\GGlimpse\bin\roslyn\csc.exe.config
+F:\Project\GGlimpse\bin\roslyn\csc.rsp
+F:\Project\GGlimpse\bin\roslyn\csi.exe
+F:\Project\GGlimpse\bin\roslyn\csi.exe.config
+F:\Project\GGlimpse\bin\roslyn\csi.rsp
+F:\Project\GGlimpse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Project\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Project\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\GGlimpse\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\GGlimpse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Project\GGlimpse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Project\GGlimpse\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Project\GGlimpse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\GGlimpse\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Project\GGlimpse\bin\roslyn\System.AppContext.dll
+F:\Project\GGlimpse\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\GGlimpse\bin\roslyn\System.Console.dll
+F:\Project\GGlimpse\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Project\GGlimpse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Project\GGlimpse\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Project\GGlimpse\bin\roslyn\System.Globalization.Calendars.dll
+F:\Project\GGlimpse\bin\roslyn\System.IO.Compression.dll
+F:\Project\GGlimpse\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Project\GGlimpse\bin\roslyn\System.IO.FileSystem.dll
+F:\Project\GGlimpse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Project\GGlimpse\bin\roslyn\System.Net.Http.dll
+F:\Project\GGlimpse\bin\roslyn\System.Net.Sockets.dll
+F:\Project\GGlimpse\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\GGlimpse\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Project\GGlimpse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Project\GGlimpse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Project\GGlimpse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Project\GGlimpse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Project\GGlimpse\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Project\GGlimpse\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Project\GGlimpse\bin\roslyn\System.ValueTuple.dll
+F:\Project\GGlimpse\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Project\GGlimpse\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Project\GGlimpse\bin\roslyn\System.Xml.XPath.dll
+F:\Project\GGlimpse\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Project\GGlimpse\bin\roslyn\vbc.exe
+F:\Project\GGlimpse\bin\roslyn\vbc.exe.config
+F:\Project\GGlimpse\bin\roslyn\vbc.rsp
+F:\Project\GGlimpse\bin\roslyn\VBCSCompiler.exe
+F:\Project\GGlimpse\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\GGlimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\GGlimpse\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\GGlimpse\bin\Newtonsoft.Json.dll
+F:\Project\GGlimpse\bin\System.Net.Http.Formatting.dll
+F:\Project\GGlimpse\bin\System.Web.Helpers.dll
+F:\Project\GGlimpse\bin\System.Web.Http.dll
+F:\Project\GGlimpse\bin\System.Web.Http.WebHost.dll
+F:\Project\GGlimpse\bin\System.Web.Mvc.dll
+F:\Project\GGlimpse\bin\System.Web.Razor.dll
+F:\Project\GGlimpse\bin\System.Web.Webpages.Deployment.dll
+F:\Project\GGlimpse\bin\System.Web.Webpages.dll
+F:\Project\GGlimpse\bin\System.Web.Webpages.Razor.dll
+F:\Project\GGlimpse\bin\System.Web.Razor.xml
+F:\Project\GGlimpse\bin\System.Web.Webpages.xml
+F:\Project\GGlimpse\bin\System.Web.Webpages.Deployment.xml
+F:\Project\GGlimpse\bin\System.Web.Webpages.Razor.xml
+F:\Project\GGlimpse\bin\System.Web.Helpers.xml
+F:\Project\GGlimpse\bin\System.Web.Mvc.xml
+F:\Project\GGlimpse\bin\Newtonsoft.Json.xml
+F:\Project\GGlimpse\bin\System.Net.Http.Formatting.xml
+F:\Project\GGlimpse\bin\System.Web.Http.xml
+F:\Project\GGlimpse\bin\System.Web.Http.WebHost.xml
+F:\Project\GGlimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\GGlimpse\obj\Debug\GGlimpse.csproj.AssemblyReference.cache
+F:\Project\GGlimpse\obj\Debug\GGlimpse.csproj.CoreCompileInputs.cache
+F:\Project\GGlimpse\obj\Debug\GGlimpse.csproj.CopyComplete
+F:\Project\GGlimpse\obj\Debug\GGlimpse.dll
+F:\Project\GGlimpse\obj\Debug\GGlimpse.pdb
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\mongocrypt.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\GGlimpse.dll.config
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\GGlimpse.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\GGlimpse.pdb
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\csc.exe
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\csc.exe.config
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\csc.rsp
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\csi.exe
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\csi.exe.config
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\csi.rsp
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.AppContext.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Console.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.IO.Compression.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Net.Http.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Net.Sockets.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.ValueTuple.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\vbc.exe
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\vbc.exe.config
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\vbc.rsp
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\VBCSCompiler.exe
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\AWSSDK.Core.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\AWSSDK.SecurityToken.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\DnsClient.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Owin.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Owin.Security.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Win32.Registry.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\MongoDB.Bson.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\MongoDB.Driver.Core.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\MongoDB.Driver.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\MongoDB.Libmongocrypt.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Newtonsoft.Json.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Owin.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\SharpCompress.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Snappier.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Buffers.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Memory.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Net.Http.Formatting.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Numerics.Vectors.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Security.AccessControl.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Security.Principal.Windows.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Text.Encoding.CodePages.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Helpers.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Http.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Http.WebHost.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Mvc.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Razor.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Webpages.Deployment.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Webpages.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Webpages.Razor.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\ZstdSharp.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\AWSSDK.Core.pdb
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\AWSSDK.Core.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\AWSSDK.SecurityToken.pdb
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\AWSSDK.SecurityToken.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\DnsClient.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Owin.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Owin.Security.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.Win32.Registry.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\MongoDB.Bson.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\MongoDB.Driver.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\MongoDB.Driver.Core.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Snappier.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Buffers.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Memory.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Numerics.Vectors.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Security.AccessControl.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Security.Principal.Windows.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Text.Encoding.CodePages.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Razor.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Webpages.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Webpages.Deployment.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Webpages.Razor.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Helpers.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Mvc.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Newtonsoft.Json.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Net.Http.Formatting.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Http.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\System.Web.Http.WebHost.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\obj\Debug\GGlimpse.csproj.AssemblyReference.cache
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\obj\Debug\GGlimpse.csproj.CoreCompileInputs.cache
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\obj\Debug\GGlimpse.csproj.CopyComplete
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\obj\Debug\GGlimpse.dll
+C:\Users\KUNAL LAKHWANI\source\GGlimpse\obj\Debug\GGlimpse.pdb
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\mongocrypt.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\GGlimpse.dll.config
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\GGlimpse.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\GGlimpse.pdb
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\csc.exe
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\csc.exe.config
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\csc.rsp
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\csi.exe
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\csi.exe.config
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\csi.rsp
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.AppContext.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Console.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.IO.Compression.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Net.Http.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Net.Sockets.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.ValueTuple.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\vbc.exe
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\vbc.exe.config
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\vbc.rsp
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\VBCSCompiler.exe
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\AWSSDK.Core.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\AWSSDK.SecurityToken.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\DnsClient.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Owin.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Owin.Security.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Win32.Registry.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\MongoDB.Bson.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\MongoDB.Driver.Core.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\MongoDB.Driver.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\MongoDB.Libmongocrypt.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Newtonsoft.Json.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Owin.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\SharpCompress.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Snappier.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Buffers.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Memory.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Net.Http.Formatting.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Numerics.Vectors.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Security.AccessControl.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Security.Principal.Windows.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Text.Encoding.CodePages.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Helpers.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Http.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Http.WebHost.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Mvc.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Razor.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Webpages.Deployment.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Webpages.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Webpages.Razor.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\ZstdSharp.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\AWSSDK.Core.pdb
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\AWSSDK.Core.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\AWSSDK.SecurityToken.pdb
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\AWSSDK.SecurityToken.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\DnsClient.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Owin.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Owin.Security.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.Win32.Registry.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\MongoDB.Bson.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\MongoDB.Driver.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\MongoDB.Driver.Core.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Snappier.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Buffers.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Memory.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Numerics.Vectors.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Security.AccessControl.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Security.Principal.Windows.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Text.Encoding.CodePages.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Razor.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Webpages.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Webpages.Deployment.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Webpages.Razor.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Helpers.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Mvc.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Newtonsoft.Json.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Net.Http.Formatting.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Http.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\System.Web.Http.WebHost.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\obj\Debug\GGlimpse.csproj.AssemblyReference.cache
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\obj\Debug\GGlimpse.csproj.CoreCompileInputs.cache
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\obj\Debug\GGlimpse.csproj.CopyComplete
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\obj\Debug\GGlimpse.dll
+C:\Users\KUNAL LAKHWANI\source\Temp\GGlimpse\obj\Debug\GGlimpse.pdb
+D:\Programming\GGlimpse\bin\mongocrypt.dll
+D:\Programming\GGlimpse\bin\GGlimpse.dll.config
+D:\Programming\GGlimpse\bin\GGlimpse.dll
+D:\Programming\GGlimpse\bin\GGlimpse.pdb
+D:\Programming\GGlimpse\bin\roslyn\csc.exe
+D:\Programming\GGlimpse\bin\roslyn\csc.exe.config
+D:\Programming\GGlimpse\bin\roslyn\csc.rsp
+D:\Programming\GGlimpse\bin\roslyn\csi.exe
+D:\Programming\GGlimpse\bin\roslyn\csi.exe.config
+D:\Programming\GGlimpse\bin\roslyn\csi.rsp
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\GGlimpse\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Programming\GGlimpse\bin\roslyn\System.AppContext.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Console.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Globalization.Calendars.dll
+D:\Programming\GGlimpse\bin\roslyn\System.IO.Compression.dll
+D:\Programming\GGlimpse\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Programming\GGlimpse\bin\roslyn\System.IO.FileSystem.dll
+D:\Programming\GGlimpse\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Net.Http.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Net.Sockets.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Programming\GGlimpse\bin\roslyn\System.ValueTuple.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Xml.XPath.dll
+D:\Programming\GGlimpse\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programming\GGlimpse\bin\roslyn\vbc.exe
+D:\Programming\GGlimpse\bin\roslyn\vbc.exe.config
+D:\Programming\GGlimpse\bin\roslyn\vbc.rsp
+D:\Programming\GGlimpse\bin\roslyn\VBCSCompiler.exe
+D:\Programming\GGlimpse\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\GGlimpse\bin\AWSSDK.Core.dll
+D:\Programming\GGlimpse\bin\AWSSDK.SecurityToken.dll
+D:\Programming\GGlimpse\bin\DnsClient.dll
+D:\Programming\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Programming\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Programming\GGlimpse\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\GGlimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\GGlimpse\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming\GGlimpse\bin\Microsoft.Owin.dll
+D:\Programming\GGlimpse\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Programming\GGlimpse\bin\Microsoft.Owin.Security.dll
+D:\Programming\GGlimpse\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\GGlimpse\bin\Microsoft.Win32.Registry.dll
+D:\Programming\GGlimpse\bin\MongoDB.Bson.dll
+D:\Programming\GGlimpse\bin\MongoDB.Driver.Core.dll
+D:\Programming\GGlimpse\bin\MongoDB.Driver.dll
+D:\Programming\GGlimpse\bin\MongoDB.Libmongocrypt.dll
+D:\Programming\GGlimpse\bin\Newtonsoft.Json.dll
+D:\Programming\GGlimpse\bin\Owin.dll
+D:\Programming\GGlimpse\bin\SharpCompress.dll
+D:\Programming\GGlimpse\bin\Snappier.dll
+D:\Programming\GGlimpse\bin\System.Buffers.dll
+D:\Programming\GGlimpse\bin\System.Memory.dll
+D:\Programming\GGlimpse\bin\System.Net.Http.Formatting.dll
+D:\Programming\GGlimpse\bin\System.Numerics.Vectors.dll
+D:\Programming\GGlimpse\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\GGlimpse\bin\System.Security.AccessControl.dll
+D:\Programming\GGlimpse\bin\System.Security.Principal.Windows.dll
+D:\Programming\GGlimpse\bin\System.Text.Encoding.CodePages.dll
+D:\Programming\GGlimpse\bin\System.Threading.Tasks.Extensions.dll
+D:\Programming\GGlimpse\bin\System.Web.Helpers.dll
+D:\Programming\GGlimpse\bin\System.Web.Http.dll
+D:\Programming\GGlimpse\bin\System.Web.Http.WebHost.dll
+D:\Programming\GGlimpse\bin\System.Web.Mvc.dll
+D:\Programming\GGlimpse\bin\System.Web.Razor.dll
+D:\Programming\GGlimpse\bin\System.Web.Webpages.Deployment.dll
+D:\Programming\GGlimpse\bin\System.Web.Webpages.dll
+D:\Programming\GGlimpse\bin\System.Web.Webpages.Razor.dll
+D:\Programming\GGlimpse\bin\ZstdSharp.dll
+D:\Programming\GGlimpse\bin\AWSSDK.Core.pdb
+D:\Programming\GGlimpse\bin\AWSSDK.Core.xml
+D:\Programming\GGlimpse\bin\AWSSDK.SecurityToken.pdb
+D:\Programming\GGlimpse\bin\AWSSDK.SecurityToken.xml
+D:\Programming\GGlimpse\bin\DnsClient.xml
+D:\Programming\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\Programming\GGlimpse\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Programming\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Programming\GGlimpse\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Programming\GGlimpse\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programming\GGlimpse\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programming\GGlimpse\bin\Microsoft.Owin.xml
+D:\Programming\GGlimpse\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Programming\GGlimpse\bin\Microsoft.Owin.Security.xml
+D:\Programming\GGlimpse\bin\Microsoft.Win32.Registry.xml
+D:\Programming\GGlimpse\bin\MongoDB.Bson.xml
+D:\Programming\GGlimpse\bin\MongoDB.Driver.xml
+D:\Programming\GGlimpse\bin\MongoDB.Driver.Core.xml
+D:\Programming\GGlimpse\bin\Snappier.xml
+D:\Programming\GGlimpse\bin\System.Buffers.xml
+D:\Programming\GGlimpse\bin\System.Memory.xml
+D:\Programming\GGlimpse\bin\System.Numerics.Vectors.xml
+D:\Programming\GGlimpse\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\GGlimpse\bin\System.Security.AccessControl.xml
+D:\Programming\GGlimpse\bin\System.Security.Principal.Windows.xml
+D:\Programming\GGlimpse\bin\System.Text.Encoding.CodePages.xml
+D:\Programming\GGlimpse\bin\System.Threading.Tasks.Extensions.xml
+D:\Programming\GGlimpse\bin\System.Web.Razor.xml
+D:\Programming\GGlimpse\bin\System.Web.Webpages.xml
+D:\Programming\GGlimpse\bin\System.Web.Webpages.Deployment.xml
+D:\Programming\GGlimpse\bin\System.Web.Webpages.Razor.xml
+D:\Programming\GGlimpse\bin\System.Web.Helpers.xml
+D:\Programming\GGlimpse\bin\System.Web.Mvc.xml
+D:\Programming\GGlimpse\bin\Newtonsoft.Json.xml
+D:\Programming\GGlimpse\bin\System.Net.Http.Formatting.xml
+D:\Programming\GGlimpse\bin\System.Web.Http.xml
+D:\Programming\GGlimpse\bin\System.Web.Http.WebHost.xml
+D:\Programming\GGlimpse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\GGlimpse\obj\Debug\GGlimpse.csproj.AssemblyReference.cache
+D:\Programming\GGlimpse\obj\Debug\GGlimpse.csproj.CoreCompileInputs.cache
+D:\Programming\GGlimpse\obj\Debug\GGlimpse.csproj.CopyComplete
+D:\Programming\GGlimpse\obj\Debug\GGlimpse.dll
+D:\Programming\GGlimpse\obj\Debug\GGlimpse.pdb
